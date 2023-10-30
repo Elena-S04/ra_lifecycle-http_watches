@@ -1,4 +1,6 @@
-#[![Build status](https://ci.appveyor.com/api/projects/status/8m9sdj0ylld7q49h?svg=true)](https://ci.appveyor.com/project/Elena-S04/ra-lifecycle-http-watches)
+[![Build status](https://ci.appveyor.com/api/projects/status/8m9sdj0ylld7q49h?svg=true)](https://ci.appveyor.com/project/Elena-S04/ra-lifecycle-http-watches)
+
+https://elena-s04.github.io/ra_lifecycle-http_watches/
 
 # Getting Started with Create React App
 
