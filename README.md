@@ -1,3 +1,5 @@
+#[![Build status](https://ci.appveyor.com/api/projects/status/8m9sdj0ylld7q49h?svg=true)](https://ci.appveyor.com/project/Elena-S04/ra-lifecycle-http-watches)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
