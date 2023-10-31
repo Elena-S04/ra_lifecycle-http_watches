@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Elena-S04/ra_lifecycle-http_watches.git/static/css/main.073c9b0a.css",
+    "main.js": "/Elena-S04/ra_lifecycle-http_watches.git/static/js/main.6ff0b6cd.js",
+    "static/js/787.5168b7e8.chunk.js": "/Elena-S04/ra_lifecycle-http_watches.git/static/js/787.5168b7e8.chunk.js",
+    "index.html": "/Elena-S04/ra_lifecycle-http_watches.git/index.html",
+    "main.073c9b0a.css.map": "/Elena-S04/ra_lifecycle-http_watches.git/static/css/main.073c9b0a.css.map",
+    "main.6ff0b6cd.js.map": "/Elena-S04/ra_lifecycle-http_watches.git/static/js/main.6ff0b6cd.js.map",
+    "787.5168b7e8.chunk.js.map": "/Elena-S04/ra_lifecycle-http_watches.git/static/js/787.5168b7e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6ff0b6cd.js"
+  ]
+}
